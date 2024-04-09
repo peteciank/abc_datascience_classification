@@ -32,15 +32,31 @@ This repository covers the following widely-used classification algorithms:
 [Check the KNN notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B3%5D_kernel_svm.ipynb)
 
 4. **Logistic Regression:**  Models the probability of a data point belonging to a class using a logistic function.
+This is a way to explain what binary classification is by using linear and logistic regression.  
 ![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/a16554fd-a4cf-4c2b-9d62-f999fd8c89e8)
 
+This is another way of showing how logistic regression classifies two classes.
 ![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/e251b7f7-dcf3-4388-9761-7c1e5af905fd)
 
-[Check the KNN notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B4%5D_logistic_regression.ipynb)
+[Check the Logistic Regression Classifier notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B4%5D_logistic_regression.ipynb)
 
 5. **Naive Bayes:**  Applies Bayes' theorem for classification, based on the assumption of independence between features.
-6. **Random Forest:**  Combines multiple decision trees to improve predictions and reduce overfitting. [Image of multiple decision trees in a random forest]
+Check on this image how Naives Bayes classifies different datapoints.
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/b7259bde-8f60-46c3-80d4-7b71b3f8629f)
+
+[Check the Naive Bayes Notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B5%5D_naive_bayes.ipynb)
+
+6. **Random Forest:**  Combines multiple decision trees to improve predictions and reduce overfitting.
+Random forest is a variation of decision tree, where lot of trees are serving and composing the forest. 
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/01a12051-bd7f-4ae6-87c6-d34e1b4e7852)
+
+[Check Random Forest Classifier Notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B6%5D_random_forest_classification.ipynb)
+
 7. **Support Vector Machine (SVM):** Finds the best-fitting hyperplane to separate data points belonging to different classes.
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/49dece6b-c6e0-48e4-910d-f1d1467d7317)
+
+[Check the SVM Notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B6%5D_support_vector_machine.ipynb)
+
 
 **Jupyter Notebooks: Step-by-Step Learning**
 
@@ -61,6 +77,7 @@ Each algorithm has a dedicated Jupyter Notebook, including:
 1. Clone this repository.
 2. Install the required libraries (details within notebooks)
 3. Explore the notebooks and experiment with the code.
+4. Compare with each model, which is the one with more accuracy when predicting the target variable.
 
 **Contribute and Collaborate**
 
