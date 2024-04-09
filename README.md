@@ -1,6 +1,8 @@
 **Machine Learning Classification Techniques**
 
-![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/4db8f6fc-f8a5-450e-a96c-95132b783491)
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/2de0880d-1c23-4b93-ba95-a2d13923f7fb)
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/71938d20-0836-42c9-9319-d0df4de4fcf7)
+
 
 This repository explores fundamental classification algorithms in machine learning and provides practical examples of their implementation. Classification is the task of assigning data points to pre-defined categories or classes, making it essential for many applications.
 
@@ -14,7 +16,11 @@ This repository explores fundamental classification algorithms in machine learni
 **Algorithms**
 This repository covers the following widely-used classification algorithms:
 
-1. **Decision Tree:** Builds a tree-like structure of rules to make predictions. [Image of a decision tree] 
+1. **Decision Tree:** Builds a tree-like structure of rules to make predictions. 
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/a3dcf26e-d5bd-494d-adfc-d56fa205cbb0)
+
+[Check the Decision Tree notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B1%5D_decision_tree_classification.ipynb)
+
 2. **K-Nearest Neighbors (KNN):** Classifies a new data point based on the majority vote of its 'k' nearest neighbors. [Image illustrating neighbors around a data point of interest]
 3. **Kernel SVM:**  A powerful extension of Support Vector Machines, using kernels to handle non-linearly separable data. 
 4. **Logistic Regression:**  Models the probability of a data point belonging to a class using a logistic function. [Image of a logistic sigmoid function]
