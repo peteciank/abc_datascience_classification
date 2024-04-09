@@ -21,9 +21,23 @@ This repository covers the following widely-used classification algorithms:
 
 [Check the Decision Tree notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B1%5D_decision_tree_classification.ipynb)
 
-2. **K-Nearest Neighbors (KNN):** Classifies a new data point based on the majority vote of its 'k' nearest neighbors. [Image illustrating neighbors around a data point of interest]
-3. **Kernel SVM:**  A powerful extension of Support Vector Machines, using kernels to handle non-linearly separable data. 
-4. **Logistic Regression:**  Models the probability of a data point belonging to a class using a logistic function. [Image of a logistic sigmoid function]
+2. **K-Nearest Neighbors (KNN):** Classifies a new data point based on the majority vote of its 'k' nearest neighbors.
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/bc2f7f85-252a-40ab-b914-a4ec213c2238)
+
+[Check the KNN notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B2%5D%20k_nearest_neighbors.ipynb)
+
+3. **Kernel SVM:**  A powerful extension of Support Vector Machines, using kernels to handle non-linearly separable data.
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/f103d2d7-6502-41e2-a12b-752a87fb1b50)
+
+[Check the KNN notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B3%5D_kernel_svm.ipynb)
+
+4. **Logistic Regression:**  Models the probability of a data point belonging to a class using a logistic function.
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/a16554fd-a4cf-4c2b-9d62-f999fd8c89e8)
+
+![image](https://github.com/peteciank/abc_datascience_classification/assets/106826936/e251b7f7-dcf3-4388-9761-7c1e5af905fd)
+
+[Check the KNN notebook](https://github.com/peteciank/abc_datascience_classification/blob/main/%5B4%5D_logistic_regression.ipynb)
+
 5. **Naive Bayes:**  Applies Bayes' theorem for classification, based on the assumption of independence between features.
 6. **Random Forest:**  Combines multiple decision trees to improve predictions and reduce overfitting. [Image of multiple decision trees in a random forest]
 7. **Support Vector Machine (SVM):** Finds the best-fitting hyperplane to separate data points belonging to different classes.
